@@ -93,31 +93,28 @@ __Columns__
 When data is added to the _Columns_ shelf, it will become the vertical axis, and each entry in the data will become a column or a point on the vertical axis in a visualization.
 
 
-<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/tableau/shelves.png" alt="Image of Pages shelf, Filters shelf, and Marks card" height=50>
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/tableau/shelves.png" alt="Image of shelves featuring Rows and Columns" height=50>
 
 
 #### Show Me Pane
 On the right side of the screen is the _Show Me_ pane. With this pane you can choose the type of visualization. You can also see the type of data needed for each visualization at the bottom of the Show Me pane, Tableau tells you how many dimensions and measures are necessary to generate the visualization.  Additionaly, when you have data in the workspace, the visualizations that will work with that data will become emphasized so you will know that those visualizations apply to that data.
 
-<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/tableau/show_me.png" alt="Image of Pages shelf, Filters shelf, and Marks card" height=350>
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/tableau/show_me.png" alt="Image of the Show Me Pane with icons of different visualizations available" height=350>
 
-#### 
+#### Workbook Components  
+Tableau is organized like Excel is, with a workbook format. A workbook can contain indvidual _Worksheets_, a _Dashboard_ or multiple _Dashboards_, and a _Story_ or multiple _Stories_.
 
-#### Worksheets
-What is a worksheet  
-Creating a worksheet
-- icon tab
-- tool bar
+__Worksheets__
+A _Worksheet_ is composed of one visualization _view_ along with the shelves, cards, and other tools used to create each view. Each view is a visualization that has been created to display a specific part of the data in a patrticular manner. Creating a worksheet is as simple as opening the sheet and placing the apropriate data in one of the column or row shelves and creating a basic visualization. You can add a new sheet with the icon in the bottom toolbar.     
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/tableau/new_sheet.png" alt="Image of the New Sheet icon" height=30>
 
 #### Dashboards
-What is a dashboard  
-Creating a dashboard
+A _Dashboard_ is a collection of views from many worksheets. We will go over how to create a dashboard in detail later, but for now, just know tha a new dashboard can be started by clicking on the dashboard icon in the bottom toolbar.  
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/tableau/new_dashboard.png" alt="Image of the new dashboard icon" height=30>
 
 #### Stories
-What is a story  
-Creating a story
-
-<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/tableau/bottom_tabs.png" alt="Image of Pages shelf, Filters shelf, and Marks card" height=50>
+A _Story_ is a collection of worksheets or dashboards that have been organized in a presentation like format so the viewer is able to understand the data in the order the creator intended. We will touch on stories in a later lesson, bu you can start a new story by clicking on the new story icon in the bottom toolbar.  
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/tableau/new_story.png" alt="Image of the new story icon" height=30>
 
 ## Summary
-Summary goes here
+Great!! Now you should be familiar with the layout of the Tableau interface. In the lesson you learned how to download and install Tableau Public. You were able to connect your Tableau account and find the free practice data sets provided by Tableau. You should now be able to locate all of the main components of the workspace and understand a little about each function they have. In the next lesson, we will put this new knowledge to work and start creating some visualizations!!
