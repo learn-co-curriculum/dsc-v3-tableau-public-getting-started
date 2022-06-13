@@ -84,22 +84,24 @@ The _Marks_ card allows you to add context and detail to your visualizations. Yo
 <img src="https://curriculum-content.s3.amazonaws.com/data-science/images/tableau/cards.png" alt="Image of Pages shelf, Filters shelf, and Marks card" height=250>
 
 #### Shelves
-Rows
-Columns
-Measures
-- how to identify a measure
-    - continuous variables
-- how to identify a dimension
-    - discrete variables
+When you add data to your worksheet, you do so by dragging it to either the _Rows_ or _Columns_ shelf. This is Tableau's version of an X and Y axis.
+
+__Rows__  
+When data is added to the _Rows_ shelf, it will become the horizontal axis, and each entry in the data will become a row or a point on the horizontal axis in a visualization.
+
+__Columns__  
+When data is added to the _Columns_ shelf, it will become the vertical axis, and each entry in the data will become a column or a point on the vertical axis in a visualization.
 
 
-#### Show Me
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/tableau/shelves.png" alt="Image of Pages shelf, Filters shelf, and Marks card" height=50>
 
 
+#### Show Me Pane
+On the right side of the screen is the _Show Me_ pane. With this pane you can choose the type of visualization. You can also see the type of data needed for each visualization at the bottom of the Show Me pane, Tableau tells you how many dimensions and measures are necessary to generate the visualization.  Additionaly, when you have data in the workspace, the visualizations that will work with that data will become emphasized so you will know that those visualizations apply to that data.
 
-```python
-On the right side of the screen is the _Show Me_ pane. With this pane you can choose the type of visualization. 
-```
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/tableau/show_me.png" alt="Image of Pages shelf, Filters shelf, and Marks card" height=350>
+
+#### 
 
 #### Worksheets
 What is a worksheet  
@@ -114,6 +116,8 @@ Creating a dashboard
 #### Stories
 What is a story  
 Creating a story
+
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/tableau/bottom_tabs.png" alt="Image of Pages shelf, Filters shelf, and Marks card" height=50>
 
 ## Summary
 Summary goes here
