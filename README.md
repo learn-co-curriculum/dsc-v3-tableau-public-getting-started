@@ -19,7 +19,7 @@ Once you have created your account, you will want to install the app on your loc
 Once the download is complete, you may need to restart your machine for the changes to take affect. After downloading, you can continue with the lesson and get familiar with the interface.
 
 ## Our First Look at the Tableau Interface
-When Tableau opens, you will be in the Data Pane. This is where you will import or connect to the data you want to use in your notebook. On the left side of your screen, you will see the various options for connecting to data. Tableau provides a few data sets to help you to get familiar with the platform. 
+When Tableau opens, you will be ojn the _Start Page_. This is where you will import or connect to the data you want to use in your notebook. On the left side of your screen, you will see the various options for connecting to data. Tableau provides a few data sets to help you to get familiar with the platform. 
 
 #### Connecting to Data
 Tableau provides a generous variety of sample datasets which can be accessed via the __Resources__ menu in the lower right corner of your screen. Click the __Sample Data Sets__ link and you will be taken to the sample data sets page on the Tableau website. The `Superstore Sales` data set is one that we will be working with in future lessons, so take a moment to download it now.  
