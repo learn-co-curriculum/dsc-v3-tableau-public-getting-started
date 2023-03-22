@@ -1,4 +1,4 @@
-# Tableau Public I - Getting Started 
+# Tableau Public - Getting Started 
 
 ## Introduction
 In this lesson we will learn the first steps for getting started with Tableau Public. First, you will create a Tableau account and download Tableau to your computer. Then, we will launch the Tableau environment and explore the user interface. All of this begins at the Tableau __Start page__. Learning the core components of the Tableau Start page will build a foundation to begin creating visualizations and dashboards in the upcoming labs.
