@@ -13,7 +13,7 @@ In this lesson, we will learn the first steps for getting started with Tableau P
 ### 1. Create a Tableau Account
 To use Tableau Public, visit the [Tableau website](https://public.tableau.com/s/) and select the button  **Sign Up for Tableau Public** in the red rectangle, pictured below.
 <table><tr><td>
-<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/images/tableau/lesson1/tab-1-1.png" alt="This is the alt-text for the image." height=350/>
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/v3/tableau/tableau/1_getting_started/tab-1-1.png" alt="This is the alt-text for the image." height=350/>
 </td></tr></table>
 </div>
 
@@ -24,14 +24,14 @@ To use Tableau Public, visit the [Tableau website](https://public.tableau.com/s/
 * Finally, restart your computer and launch the Tableau environment from your desktop.
 <br>
 <table><tr><td>
-<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/images/tableau/lesson1/tab-1-2.png" alt="This is the alt-text for the image." height=350/>
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/v3/tableau/tableau/1_getting_started/tab-1-2.png" alt="This is the alt-text for the image." height=350/>
 </td></tr></table>
 </div>
 
 ## Core Components of the Start Page
 When Tableau opens, you will be on the **Start page**. It should look like the image below.
 <table><tr><td>
-<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/images/tableau/lesson1/tab-1-3-start.png" alt="This is the alt-text for the image." height=350/>
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/v3/tableau/tableau/1_getting_started/tab-1-3-start.png" alt="This is the alt-text for the image." height=350/>
 </td></tr></table>
 </div>
 
@@ -43,7 +43,7 @@ From the Start page, you can:
 
 In the image below, each of the components of the Start page is labeled with a number. Use the guide below the image to learn about each component.
 <table><tr><td>
-<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/images/tableau/lesson1/tab-1-4-start.png" alt="This is the alt-text for the image." height=350 width=/>
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/v3/tableau/tableau/1_getting_started/tab-1-4-start.png" alt="This is the alt-text for the image." height=350 width=/>
 </td></tr></table>
 </div>
 
@@ -79,7 +79,7 @@ In the lower right corner of the Discover pane, there is a section called <b>Res
 <div>
     <center>
 <table><tr><td>
-<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/images/tableau/lesson1/tab-1-5.png" alt="Image of the sheets tab in the lower-left corner of the Tableau Data Source Page, with the Left Pane and Canvas visible." alt="This is the alt-text for the image." style="width: 700px; height: 350px;"/>
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/v3/tableau/tableau/1_getting_started/tab-1-5.png" alt="Image of the sheets tab in the lower-left corner of the Tableau Data Source Page, with the Left Pane and Canvas visible." alt="This is the alt-text for the image." style="width: 700px; height: 350px;"/>
 </td></tr></table>
             </center>
 </div>    
@@ -91,7 +91,7 @@ In the lower right corner of the Discover pane, there is a section called <b>Res
 <div>
         <center>
 <table><tr><td>
-<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/images/tableau/lesson1/tab-1-6.png" alt="Image of the sheets tab in the lower-left corner of the Tableau Data Source Page, with the Left Pane and Canvas visible." alt="This is the alt-text for the image." style="width: 700px;"/>
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/v3/tableau/tableau/1_getting_started/tab-1-6.png" alt="Image of the sheets tab in the lower-left corner of the Tableau Data Source Page, with the Left Pane and Canvas visible." alt="This is the alt-text for the image." style="width: 700px;"/>
 </td></tr></table>
     </center> </div>
 <br>
@@ -102,7 +102,7 @@ Next, we will navigate to the <b>Connect pane (2)</b> in the upper left-hand cor
 <div>
     <center>
 <table><tr><td>
-<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/images/tableau/lesson1/tab-1-7.png" alt="Image of the sheets tab in the lower-left corner of the Tableau Data Source Page, with the Left Pane and Canvas visible." alt="This is the alt-text for the image." style="height: 400px; width: 300px"/>
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/v3/tableau/tableau/1_getting_started/tab-1-7.png" alt="Image of the sheets tab in the lower-left corner of the Tableau Data Source Page, with the Left Pane and Canvas visible." alt="This is the alt-text for the image." style="height: 400px; width: 300px"/>
     </td></tr></table> </center>
 </div>    
 <br>
@@ -111,7 +111,7 @@ Then, use the Open dialogue box to retrieve <b>Documents/My Tableau Repository/D
 <div>
     <center>
 <table><tr><td>
-<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/images/tableau/lesson1/open-dialogue.png" alt="Image of the sheets tab in the lower-left corner of the Tableau Data Source Page, with the Left Pane and Canvas visible." alt="This is the alt-text for the image." style="width: 700px;"/>
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/v3/tableau/tableau/1_getting_started/open-dialogue.png" alt="Image of the sheets tab in the lower-left corner of the Tableau Data Source Page, with the Left Pane and Canvas visible." alt="This is the alt-text for the image." style="width: 700px;"/>
 </td></tr></table>
     </center>
 </div>    
